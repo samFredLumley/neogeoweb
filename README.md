@@ -1,2 +1,2 @@
-# neogeoweb
-Class assignments for GEOG384 @McGill #neogeoweb
+Class assignments for GEOG 384 at McGill
+<a href="https://twitter.com/hashtag/neogeoweb?src=hash">#neogeoweb</a>
